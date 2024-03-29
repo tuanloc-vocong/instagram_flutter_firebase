@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292446145587",
+    "project_id": "instagram-2999e",
+    "storage_bucket": "instagram-2999e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292446145587:android:7eb485c15244f9a4efe746",
+        "android_client_info": {
+          "package_name": "com.tuanloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9NRYRq9ZKavg5PHW4rxT66KBrrEzg9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
